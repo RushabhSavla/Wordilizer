@@ -1,0 +1,99 @@
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_action_bar_decor_include.xml #generated:19
+# view res/layout/abc_action_bar_decor_include.xml #generated:47
+# view res/layout/abc_action_bar_decor_overlay.xml #generated:30
+# view res/layout/abc_action_bar_decor_overlay.xml #generated:53
+-keep class android.support.v7.internal.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_bar_decor_include.xml #generated:31
+# view res/layout/abc_action_bar_decor_overlay.xml #generated:41
+# view res/layout/abc_action_mode_bar.xml #generated:19
+-keep class android.support.v7.internal.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_action_bar_decor_overlay.xml #generated:17
+-keep class android.support.v7.internal.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_bar_decor_include.xml #generated:25
+# view res/layout/abc_action_bar_decor_overlay.xml #generated:36
+-keep class android.support.v7.internal.widget.ActionBarView { <init>(...); }
+
+# view res/layout/abc_action_bar_home.xml #generated:17
+-keep class android.support.v7.internal.widget.ActionBarView$HomeView { <init>(...); }
+
+# view res/layout/abc_action_bar_tabbar.xml #generated:17
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.internal.widget.LinearLayoutICS { <init>(...); }
+
+# view v11/res/layout-v11/abc_action_bar_decor.xml #generated:17
+# view v11/res/layout-v11/abc_simple_decor.xml #generated:17
+-keep class android.support.v7.internal.widget.NativeActionModeAwareLayout { <init>(...); }
+
+# view res/layout/abc_action_bar_tab.xml #generated:17
+-keep class android.support.v7.internal.widget.ScrollingTabContainerView$TabView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:85
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.wordilizer.AboutUs { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class com.wordilizer.DeckSize { <init>(...); }
+
+# view AndroidManifest.xml #generated:134
+-keep class com.wordilizer.DictionaryProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.wordilizer.GitHub { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class com.wordilizer.GitHub4000 { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.wordilizer.GitHub800 { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class com.wordilizer.GitHubDifficult { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.wordilizer.GitHubEasy { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class com.wordilizer.GitHubMedium { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.wordilizer.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.wordilizer.Menu { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.wordilizer.Progress { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class com.wordilizer.SearchableDictionary { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.wordilizer.SpecialList { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.wordilizer.Splash { <init>(...); }
+
+# view AndroidManifest.xml #generated:130
+-keep class com.wordilizer.WordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:101
+-keep class com.wordilizer.WordShow { <init>(...); }
+

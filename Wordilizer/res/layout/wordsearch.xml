@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dip"
+        android:paddingTop="20sp"
+        android:text="@string/search_instructions"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="?android:textColorPrimary"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/definition"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:paddingLeft="20sp"
+        android:paddingRight="20sp"
+        android:paddingTop="20sp"
+        android:text="@string/search_instructions"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="?android:textColorSecondary" />
+
+    <Button
+        android:id="@+id/button1"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"        
+        android:text="Pronunciation" />
+    
+</LinearLayout>
